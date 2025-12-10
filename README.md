@@ -9,8 +9,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swaekaa&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swaekaa&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://stats.dooboo.io/api/github-stats?login=swaekaa&theme=dracula" height="150" />
+  <img src="https://stats.dooboo.io/api/top-langs?login=swaekaa&theme=dracula&layout=compact" height="150" />
 </div>
 
 ###
