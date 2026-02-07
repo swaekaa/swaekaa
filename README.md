@@ -10,7 +10,8 @@
 
 <div align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=swaekaa&theme=dracula" height="150" />
-  <img src="https://stats.dooboo.io/api/github-langs?login=swaekaa&theme=dracula" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=swaekaa&theme=dark&hide_border=false" height="150"/><br/>
+
 </div>
 
 ###
