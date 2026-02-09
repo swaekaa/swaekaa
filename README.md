@@ -38,7 +38,7 @@
 ###
 
 <div align="center">
-  <a href="https://ekaansh-sawaria-portfolio.vercel.app" target="_blank">
+  <a href="https://ekaansh-sawaria.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-E4405F?logo=portfolio&logoColor=white&style=plastic" height="35"/>
   </a>
   <a href="mailto:sawariaekaansh@gmail.com">
