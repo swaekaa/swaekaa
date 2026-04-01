@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=swaekaa&theme=dracula" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaekaa&theme=dark&hide_border=false" height="150"/>
-  <img src="https://www.nowcard.store/api/card/moanturtle?layout=compact&hide=vibe%2Cproject%2Copentowork&widgets=scrobbles%2Ctopartist%2Csince" height="150"/>
+  <img src="https://www.nowcard.store/api/card/moanturtle?layout=compact&hide=vibe%2Cproject%2Copentowork&widgets=scrobbles%2Ctopartist%2Csince?v=3" height="150"/>
 </div>
 
 ###
