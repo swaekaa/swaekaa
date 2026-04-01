@@ -10,8 +10,8 @@
 
 <div align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=swaekaa&theme=dracula" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=swaekaa&theme=dark&hide_border=false" height="150"/><br/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaekaa&theme=dark&hide_border=false" height="150"/>
+  <img src="https://www.nowcard.store/api/card/moanturtle?layout=compact&hide=vibe%2Cproject%2Copentowork&widgets=scrobbles%2Ctopartist%2Csince" height="150"/>
 </div>
 
 ###
@@ -23,7 +23,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
   <img width="12"/>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30"/>
